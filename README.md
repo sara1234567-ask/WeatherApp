@@ -1,1 +1,2 @@
 
+скрины в assets -> images
